@@ -1,2 +1,2 @@
-# spl
+# SPL
 Samanvay Premiere League
